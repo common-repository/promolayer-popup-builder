@@ -1,0 +1,215 @@
+.promolayer-wrapper *{
+    box-sizing: border-box;
+}
+.promolayer-wrapper{
+    width:1000px;
+    font-family: Roboto, sans-serif;
+    margin:10px auto 40px auto;
+    color:#4c3f75;
+}
+.promolayer-wrapper .pl-card{
+    width:100%;
+    height:auto;
+    margin:0 auto 40px auto;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px 20px;
+    display:flex;
+    position:relative;
+}
+.promolayer-wrapper .pl-halfcol{
+    flex-basis: 50%;
+    width:50%;
+    box-sizing: border-box;
+    padding:0 20px;
+}
+.promolayer-wrapper .pl-login-panel{
+    background:rgba(92,61,194,0.1);
+    border-radius: 20px;
+    width:100%;
+    height:100%;
+    text-align: center;
+    padding:40px 20px;
+    position: relative;
+}
+.pl-logo{
+    width:100%;
+    max-width:220px;
+    margin:0 auto 70px auto;
+}
+.promolayer-wrapper img{
+    width:100%;
+}
+.pl-button{
+    color:#fff;
+    background:rgba(92,61,194,1);
+    width:250px;
+    padding:10px 0;
+    text-align: center;
+    display:block;
+    margin:0 auto;
+    border-radius:5px;
+    vertical-align: middle;
+    text-decoration: none;
+    font-weight:bold;
+    transition: all 0.3s;
+    box-shadow: none;
+    font-size:16px;
+}
+.pl-button:hover, .pl-button:focus{
+    color:#fff;
+    background:rgba(46,0,196,1);
+    box-shadow: 0px 0px 10px rgb(92 61 194 / 51%)
+}
+.pl-button img{
+    display: inline-block;
+    width:24px;
+    height:auto;
+    vertical-align: middle;
+    margin-left:15px;
+}
+.pl-promocol-header{
+    display:flex;
+    font-weight:400;
+}
+.pl-promocol-header p{
+    font-size: 16px;
+}
+.pl-promocol-header img{
+    width:160px;
+}
+.pl-promocol-header div:first-child{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    flex-basis:70%;
+}
+.pl-promocol-header div:last-child{
+    text-align: right;
+    flex-basis:30%;
+}
+.pl-subtitle-light{
+    font-weight:200;
+}
+.pl-headline h1{
+    margin-bottom:0;
+}
+.pl-subtitle{
+    margin-top:0.5em;
+}
+.pl-signup{
+    margin-bottom:80px;
+}
+.pl-promocol-info{
+    text-align: center;
+}
+.pl-feature-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+}
+.pl-feature-list div{
+    font-size:14px;
+    width:50%;
+    flex-grow:0;
+    flex-shrink:0;
+    padding:5px 20px 5px 40px;
+    background: url("../../assets/images/circle-check.svg");
+    background-size:24px;
+    background-repeat:no-repeat;
+    background-position:left center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-weight:400;
+}
+.big-checkmark{
+    width:52px;
+    height:52px;
+    margin:0 auto 40px auto;
+}
+.pl-card-social{
+    flex-direction: column;
+}
+.pl-social-proof-headline{
+    text-align: center;
+}
+.pl-social-proof-headline h2{
+    margin-bottom:15px;
+}
+.pl-ratings{
+    width:500px;
+    margin:0 auto;
+    display:flex;
+    flex-direction: row;
+    padding-bottom:40px;
+}
+.pl-ratings div{
+    padding:0 15px;
+    place-self: flex-end;
+}
+.pl-user-icon{
+    width:50px;
+    position: absolute;
+    top:0;
+    left:15px;
+    transform: translatey(-50%);
+}
+.pl-user-rating{
+    width:92px;
+    position: absolute;
+    right:20px;
+    top:5px;
+}
+.pl-review .pl-user-name{
+    font-size:12px;
+    font-weight:800;
+    position:absolute;
+    top:10px;
+    left:75px;
+}
+.pl-reviews{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    margin:0 auto;
+}
+.pl-review{
+    background:#495057;
+    border-radius:10px;
+    width:calc(33% - 20px);
+    margin:0 10px 40px 10px;
+    position: relative;
+    color:#fff;
+    font-size:18px;
+    padding:40px 20px 30px 20px;
+    font-weight:300;
+    text-align: center;
+}
+.m0p0{
+    margin:0;
+    padding:0;
+}
+.pl-card:last-child{
+    padding-bottom:0;
+}
+.userid{
+    display: block;
+    font-size:11px;
+    padding-top:5px;
+    padding-bottom:40px;
+}
+.pl-card .disconnect{
+    text-decoration: underline;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 15px;
+    margin: auto;
+    padding-bottom: 0;
+    cursor: pointer;
+}

@@ -1,0 +1,169 @@
+# Japanese translations for PACKAGE package
+# PACKAGE パッケージに対する英訳.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Kiyoshi <kiyoshi@mbp2018.local>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-01 10:56+0900\n"
+"PO-Revision-Date: 2022-04-01 10:57+0900\n"
+"Last-Translator: Kiyoshi <kiyoshi@mbp2018.local>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: admin/class-promolayer-admin.php:209
+#, php-format
+msgid ""
+"The Promolayer plugin isn’t connected yet. To use Promolayer on your "
+"WordPress site, %1$sconnect the plugin now%2$s."
+msgstr ""
+"Promolayerのアカウントに接続していません. Promolayerを "
+"このWordPressサイトで使うために, %1$sアカウントに接続しましょう%2$s."
+
+#: admin/partials/promolayer-admin-display.php:39
+msgid "Create your free account"
+msgstr "無料でアカウント作成"
+
+#: admin/partials/promolayer-admin-display.php:40
+msgid "Make beautiful popups and more."
+msgstr "美しいポップアップを作りましょう!"
+
+#: admin/partials/promolayer-admin-display.php:41
+#, php-format
+msgid "100% free, no credit card required."
+msgstr "登録にクレジットカードは必要ありません"
+
+#: admin/partials/promolayer-admin-display.php:45
+msgid "Sign up"
+msgstr "登録"
+
+#: admin/partials/promolayer-admin-display.php:47
+msgid "Already have an account?"
+msgstr "アカウントをお持ちですか？"
+
+#: admin/partials/promolayer-admin-display.php:49
+msgid "Log in & connect"
+msgstr "ログイン ＆ 接続"
+
+#: admin/partials/promolayer-admin-display.php:54
+msgid "Your account is connected"
+msgstr "あなたのアカウントは接続されました"
+
+#: admin/partials/promolayer-admin-display.php:55
+msgid "Connected user id:"
+msgstr "あなたのユーザーID："
+
+#: admin/partials/promolayer-admin-display.php:57
+msgid "Open Promolayer"
+msgstr "Promolayerを開く"
+
+#: admin/partials/promolayer-admin-display.php:65
+msgid ""
+"Everything you need to boost your <br> revenue and build your email lists "
+"<br> in one place."
+msgstr ""
+"収益をアップさせ、Eメール収集するために必要なものは <br>  "
+"すべてここにあります"
+
+#: admin/partials/promolayer-admin-display.php:72
+msgid "What can Promolayer do for you?."
+msgstr "Promolayerでできること"
+
+#: admin/partials/promolayer-admin-display.php:75
+msgid "Easy to use editor"
+msgstr "簡単なカスタマイズ"
+
+#: admin/partials/promolayer-admin-display.php:76
+msgid "Beautiful templates"
+msgstr "美しいテンプレート"
+
+#: admin/partials/promolayer-admin-display.php:77
+msgid "12 high converting strategies"
+msgstr "12種類のコンバージョン戦略"
+
+#: admin/partials/promolayer-admin-display.php:78
+msgid "Multivariate testing"
+msgstr "A/B テスト"
+
+#: admin/partials/promolayer-admin-display.php:79
+msgid "Triggers and targeting rules"
+msgstr "トリガーとターゲッティング"
+
+#: admin/partials/promolayer-admin-display.php:80
+msgid "Exit-intent"
+msgstr "離脱防止"
+
+#: admin/partials/promolayer-admin-display.php:81
+msgid "Intergrates with mail services like Mailchimp and Klaviyo"
+msgstr "MailchimpとKlaviyoへの連携"
+
+#: admin/partials/promolayer-admin-display.php:82
+msgid "Autoresponders"
+msgstr "自動応答メール"
+
+#: admin/partials/promolayer-admin-display.php:83
+msgid "Gamified popups"
+msgstr "ゲーミフィケーション"
+
+#: admin/partials/promolayer-admin-display.php:84
+msgid "Banners and notifications"
+msgstr "バナーと通知"
+
+#: admin/partials/promolayer-admin-display.php:85
+msgid "FOMO generating countdowns"
+msgstr "FOMO カウントダウン"
+
+#: admin/partials/promolayer-admin-display.php:86
+msgid "Social list building"
+msgstr "SNS集客"
+
+#: admin/partials/promolayer-admin-display.php:89
+msgid "+ lots more, give it a try!"
+msgstr "ほか多くの機能があります。試してみましょう！"
+
+#: admin/partials/promolayer-admin-display.php:95
+msgid "Smart growth hackers love Promolayer"
+msgstr "Promolayerは多くのユーザーにご好評頂いております"
+
+#: admin/partials/promolayer-admin-display.php:113
+msgid "Ecko"
+msgstr "佐々木"
+
+#: admin/partials/promolayer-admin-display.php:117
+msgid "Amazing for beginners and advanced users"
+msgstr "とても使いやすくて、PC初心者の私でもポップアップが簡単に作れました。"
+
+#: admin/partials/promolayer-admin-display.php:125
+msgid "Chezl2"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:129
+msgid "super simple à utiliser créations illimitées !"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:137
+msgid "Footware4u"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:141
+msgid "“I got my ROI on the same day as my install. Amazing.”"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:153
+msgid "Great app, easy to setup, works like a charm.”"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:165
+msgid "I am in love with this app... excellent support & service"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:177
+msgid "Converts like crazy"
+msgstr ""

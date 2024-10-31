@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-01 10:56+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-promolayer-admin.php:209
+#, php-format
+msgid ""
+"The Promolayer plugin isn’t connected yet. To use Promolayer on your "
+"WordPress site, %1$sconnect the plugin now%2$s."
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:39
+msgid "Create your free account"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:40
+msgid "Make beautiful popups and more."
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:41
+#, php-format
+msgid "100% free, no credit card required."
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:45
+msgid "Sign up"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:47
+msgid "Already have an account?"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:49
+msgid "Log in & connect"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:54
+msgid "Your account is connected"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:55
+msgid "Connected user id:"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:57
+msgid "Open Promolayer"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:65
+msgid ""
+"Everything you need to boost your <br> revenue and build your email lists "
+"<br> in one place."
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:72
+msgid "What can Promolayer do for you?."
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:75
+msgid "Easy to use editor"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:76
+msgid "Beautiful templates"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:77
+msgid "12 high converting strategies"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:78
+msgid "Multivariate testing"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:79
+msgid "Triggers and targeting rules"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:80
+msgid "Exit-intent"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:81
+msgid "Intergrates with mail services like Mailchimp and Klaviyo"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:82
+msgid "Autoresponders"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:83
+msgid "Gamified popups"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:84
+msgid "Banners and notifications"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:85
+msgid "FOMO generating countdowns"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:86
+msgid "Social list building"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:89
+msgid "+ lots more, give it a try!"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:95
+msgid "Smart growth hackers love Promolayer"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:113
+msgid "Ecko"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:117
+msgid "Amazing for beginners and advanced users"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:125
+msgid "Chezl2"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:129
+msgid "super simple à utiliser créations illimitées !"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:137
+msgid "Footware4u"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:141
+msgid "“I got my ROI on the same day as my install. Amazing.”"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:153
+msgid "Great app, easy to setup, works like a charm.”"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:165
+msgid "I am in love with this app... excellent support & service"
+msgstr ""
+
+#: admin/partials/promolayer-admin-display.php:177
+msgid "Converts like crazy"
+msgstr ""
